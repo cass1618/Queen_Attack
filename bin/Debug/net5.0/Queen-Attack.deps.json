@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Queen-Attack/1.0.0": {
+        "runtime": {
+          "Queen-Attack.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Queen-Attack/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

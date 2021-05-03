@@ -1,0 +1,15 @@
+/Users/cassandracopp/Desktop/CSharp/Queen-Attack/bin/Debug/net5.0/Queen-Attack.deps.json
+/Users/cassandracopp/Desktop/CSharp/Queen-Attack/bin/Debug/net5.0/Queen-Attack.runtimeconfig.json
+/Users/cassandracopp/Desktop/CSharp/Queen-Attack/bin/Debug/net5.0/Queen-Attack.runtimeconfig.dev.json
+/Users/cassandracopp/Desktop/CSharp/Queen-Attack/bin/Debug/net5.0/Queen-Attack.dll
+/Users/cassandracopp/Desktop/CSharp/Queen-Attack/bin/Debug/net5.0/ref/Queen-Attack.dll
+/Users/cassandracopp/Desktop/CSharp/Queen-Attack/bin/Debug/net5.0/Queen-Attack.pdb
+/Users/cassandracopp/Desktop/CSharp/Queen-Attack/obj/Debug/net5.0/Queen-Attack.csprojAssemblyReference.cache
+/Users/cassandracopp/Desktop/CSharp/Queen-Attack/obj/Debug/net5.0/Queen-Attack.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cassandracopp/Desktop/CSharp/Queen-Attack/obj/Debug/net5.0/Queen-Attack.AssemblyInfoInputs.cache
+/Users/cassandracopp/Desktop/CSharp/Queen-Attack/obj/Debug/net5.0/Queen-Attack.AssemblyInfo.cs
+/Users/cassandracopp/Desktop/CSharp/Queen-Attack/obj/Debug/net5.0/Queen-Attack.csproj.CoreCompileInputs.cache
+/Users/cassandracopp/Desktop/CSharp/Queen-Attack/obj/Debug/net5.0/Queen-Attack.dll
+/Users/cassandracopp/Desktop/CSharp/Queen-Attack/obj/Debug/net5.0/ref/Queen-Attack.dll
+/Users/cassandracopp/Desktop/CSharp/Queen-Attack/obj/Debug/net5.0/Queen-Attack.pdb
+/Users/cassandracopp/Desktop/CSharp/Queen-Attack/obj/Debug/net5.0/Queen-Attack.genruntimeconfig.cache
